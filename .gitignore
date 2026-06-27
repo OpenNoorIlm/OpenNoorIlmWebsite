@@ -2,7 +2,7 @@
 blogs.py
 
 # Database — never commit data
-content.db
+#content.db
 
 # Python
 __pycache__/
