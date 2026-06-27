@@ -1,0 +1,19 @@
+# Desktop editor — stays local only
+blogs.py
+
+# Database — never commit data
+content.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+edit.py
